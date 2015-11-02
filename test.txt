@@ -1,1 +1,7 @@
-test test
+test test git-credential-winstore - Home
+https://gitcredentialstore.codeplex.com/
+git-credential-winstore · home ... Use the new Git Credential Manager for Windows ... This login helper solved my problems with the corporate TFS git server. git-credential-winstore - Home
+https://gitcredentialstore.codeplex.com/
+git-credential-winstore · home ... Use the new Git Credential Manager for Windows ... This login helper solved my problems with the corporate TFS git server. git-credential-winstore - Home
+https://gitcredentialstore.codeplex.com/
+git-credential-winstore · home ... Use the new Git Credential Manager for Windows ... This login helper solved my problems with the corporate TFS git server.
